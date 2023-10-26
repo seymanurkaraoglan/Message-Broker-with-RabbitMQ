@@ -1,0 +1,17 @@
+D:\VSCodeProjects\Airlines\FormulaAirline.TicketProcessing\bin\Debug\net7.0\FormulaAirline.TicketProcessing.exe
+D:\VSCodeProjects\Airlines\FormulaAirline.TicketProcessing\bin\Debug\net7.0\FormulaAirline.TicketProcessing.deps.json
+D:\VSCodeProjects\Airlines\FormulaAirline.TicketProcessing\bin\Debug\net7.0\FormulaAirline.TicketProcessing.runtimeconfig.json
+D:\VSCodeProjects\Airlines\FormulaAirline.TicketProcessing\bin\Debug\net7.0\FormulaAirline.TicketProcessing.dll
+D:\VSCodeProjects\Airlines\FormulaAirline.TicketProcessing\bin\Debug\net7.0\FormulaAirline.TicketProcessing.pdb
+D:\VSCodeProjects\Airlines\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCodeProjects\Airlines\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.AssemblyInfoInputs.cache
+D:\VSCodeProjects\Airlines\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.AssemblyInfo.cs
+D:\VSCodeProjects\Airlines\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.csproj.CoreCompileInputs.cache
+D:\VSCodeProjects\Airlines\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.dll
+D:\VSCodeProjects\Airlines\FormulaAirline.TicketProcessing\obj\Debug\net7.0\refint\FormulaAirline.TicketProcessing.dll
+D:\VSCodeProjects\Airlines\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.pdb
+D:\VSCodeProjects\Airlines\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.genruntimeconfig.cache
+D:\VSCodeProjects\Airlines\FormulaAirline.TicketProcessing\obj\Debug\net7.0\ref\FormulaAirline.TicketProcessing.dll
+D:\VSCodeProjects\Airlines\FormulaAirline.TicketProcessing\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\VSCodeProjects\Airlines\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.csproj.AssemblyReference.cache
+D:\VSCodeProjects\Airlines\FormulaAirline.TicketProcessing\obj\Debug\net7.0\FormulaAirline.TicketProcessing.csproj.CopyComplete
